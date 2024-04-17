@@ -12,11 +12,11 @@ The Emotion Classification Using Tweets project aims to classify text into vario
 - **TensorFlow/Keras:** Frameworks for creating and training the LSTM model
 - **NumPy/Pandas:** For data handling and preprocessing
 
-## Important Information!!
+## Important Information !!
 
 The data file is too big to upload so I have only uploaded a tiny sample file for reference.
 
-Please follow this cited reference link to download the full .txt file:
+Please follow this cited reference link to download the full text.csv file that was last updated two months ago from the creation date of this repository:
 
 Elgiriyewithana, N. (2024, February). Emotions. Where Words Paint the Colors of Feelings.
     https://www.kaggle.com/datasets/nelgiriyewithana/emotions/data
